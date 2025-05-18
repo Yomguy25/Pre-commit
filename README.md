@@ -11,8 +11,7 @@ This repository contains a simple configuration to use `pre-commit` with three P
 Here's a simple function, deliberately badly formatted, to illustrate what the `pre-commit` hooks detect:
 
 ### Before (source code with errors)
-```
-python
+```python
 import math,sys,os
 import numpy as np
 
@@ -39,8 +38,7 @@ Errors detected :
 - Imports not used: `os`, `sys`, `numpy`
 
 ### After correction:
-```
-python
+```python
 import math
 
 def square_root(x):
