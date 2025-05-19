@@ -2,9 +2,9 @@
 
 This repository contains a simple configuration to use `pre-commit` with three Python tools:
 
-- `isort`] (https://pycqa.github.io/isort/) : automatically sorts imports
+- [`isort`] (https://pycqa.github.io/isort/) : automatically sorts imports
 - [`black`] (https://black.readthedocs.io/) : format Python code
-- `flake8`] (https://flake8.pycqa.org/) : checks code for best practices and errors
+- [`flake8`] (https://flake8.pycqa.org/) : checks code for best practices and errors
 
 ## Example: pre-commit demo
 
